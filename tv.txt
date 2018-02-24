@@ -1,0 +1,10 @@
+canal:"TVE 1" url:"http://www.vertelevisor.com/ver-tve-1-en-directo-y-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/tve1.png";
+canal:"TVE 2" url:"http://verplusonline.com/la-2-online-gratis-en-vivo-las-24h-dia/" referer:"http://verplusonline.com/" logo:"http://vertelevisor.com/logos/tve2.png";
+canal:"Antena 3" url:"http://www.vertelevisor.com/ver-antena-3-online-gratis-en-directo-por-internet/" referer:"http://www.vertelevisor.com" logo:"http://vertelevisor.com/logos/antena3.png";
+canal:"Cuatro" url:"http://www.vertelevisor.com/ver-cuatro-en-directo-y-online-gratis-por-internet/" referer:"http://www.vertelevisor.com" logo:"http://vertelevisor.com/logos/cuatro.png";
+canal:"Tele 5" url:"http://www.vertelevisor.com/ver-telecinco-hd-online-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com" logo:"http://vertelevisor.com/logos/telecinco.png";
+canal:"La Sexta" url:"http://www.atresplayer.com/directos/television/lasexta/" referer:"http://www.atresplayer.com/directos" logo:"http://vertelevisor.com/logos/sexta.png";
+canal:"" url:"" referer:"" logo:"";
+canal:"" url:"" referer:"" logo:"";
+canal:"" url:"" referer:"" logo:"";
+canal:"" url:"" referer:"" logo:"";
