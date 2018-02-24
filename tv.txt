@@ -1,2 +1,2 @@
-canal:"Canal #0" url:"http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/" referer:"http://www.vercanalestv.com/" logo:"http://vertelevisor.com/logos/canal-cero.png";
-canal:"Canal #0 Op 2" url:"http://www.vertelevisor.com/ver-canal-cero-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/canal-cero.png";
+canal:"Canal #0" url:"http://lacalleochotv.org/movistar-0-en-directo-gratis/" referer:"http://lacalleochotv.org" logo:"http://vertelevisor.com/logos/canal-cero.png";
+canal:"http://www.vercanalestv.com/ver-canal-plus-estrenos-en-directo-y-online-las-24h/" url:"http://www.vercanalestv.com" referer:"" logo:"http://vertelevisor.com/logos/canal-cero.png";
