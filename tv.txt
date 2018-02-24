@@ -1,4 +1,4 @@
-canal:"TVE 1" url:"http://lacalleochotv.org/tve1-online-en-directo-gratis/" referer:"http://lacalleochotv.org/" logo:"http://vertelevisor.com/logos/tve1.png";
+canal:"TVE 1" url:"http://gruponetai.com/tv/tve1.html" referer:"http://lacalleochotv.org/" logo:"http://vertelevisor.com/logos/tve1.png";
 canal:"TVE 2" url:"http://lacalleochotv.org/tve2-online-en-directo-gratis/" referer:"http://lacalleochotv.org/" logo:"http://vertelevisor.com/logos/tve2.png";
 canal:"Antena 3" url:"" referer:"" logo:"http://vertelevisor.com/logos/antena3.png";
 canal:"Cuatro" url:"" referer:"" logo:"http://vertelevisor.com/logos/cuatro.png";
