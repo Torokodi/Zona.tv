@@ -1,3 +1,3 @@
-canal:"Canal #0" url:"http://www.vertelevisor.com/ver-canal-cero-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/canal-cero.png";
-canal:"M+ Estrenos" url:"http://www.vertelevisor.com/canal-movistar-estrenos-online-y-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/m-estrenos.png";
-canal:"M+ Liga" url:"http://www.elitegol.me/C+Liga/35576/Canal-plus-liga-en-directo.html" referer:"http://www.elitegol.me/" logo:"http://2.bp.blogspot.com/-5MO7aTt7R4Y/Ui2UgUyn_BI/AAAAAAAABF0/JIfkgOE89ig/s1600/plusliga.jpg";
+canal:"TVE 1" url:"http://vergol.com/live/tve1.php" referer:"http://vercanalestv.com/tv/nacionales/tve-1.html" logo:"http://vertelevisor.com/logos/tve1.png";
+canal:"TVE 2" url:"http://livesports.pw/embedn.php?file=tvdostelefive&width=650&height=400&autostart=true" referer:"http://vercanalestv.com/tv/nacionales/tve-2.html" logo:"http://vertelevisor.com/logos/tve2.png";
+canal:"Antena 3" url:"http://vergol.com/live1/antena3.php" referer:"http://vertelevisor.com/tv/nacionales/antena-3.html" logo:"http://vertelevisor.com/logos/antena3.png";
