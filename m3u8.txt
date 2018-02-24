@@ -1,1 +1,1 @@
-canal:"TVE 2" url:"http://xxedge164.livesports.pw/live/la2/chunklist.m3u8" logo:"https://lh3.googleusercontent.com/-4iujrJ2xUNA/V8n8pU7gx0I/AAAAAAAAAdM/vg0se9g2JwAEkNXhhgDvP92VCl1xK8jHACLcB/h120/tv2.png";
+canal:"TVE 2" url:"http://xxedge165.livesports.pw/live/la2/chunklist.m3u8?token=KM4CaOYel_vKxqwODgjR9A" logo:"https://lh3.googleusercontent.com/-4iujrJ2xUNA/V8n8pU7gx0I/AAAAAAAAAdM/vg0se9g2JwAEkNXhhgDvP92VCl1xK8jHACLcB/h120/tv2.png";
