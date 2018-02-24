@@ -1,7 +1,2 @@
-canal:"TVE 1" url:"http://gruponetai.com/tv/tve1.html" referer:"http://lacalleochotv.org/" logo:"http://vertelevisor.com/logos/tve1.png";
-canal:"TVE 2" url:"http://lacalleochotv.org/tve2-online-en-directo-gratis/" referer:"http://lacalleochotv.org/" logo:"http://vertelevisor.com/logos/tve2.png";
-canal:"Antena 3" url:"" referer:"" logo:"http://vertelevisor.com/logos/antena3.png";
-canal:"Cuatro" url:"" referer:"" logo:"http://vertelevisor.com/logos/cuatro.png";
-canal:"Tele 5" url:"" referer:"" logo:"http://vertelevisor.com/logos/telecinco.png";
-canal:"La Sexta" url:"http://www.atresplayer.com/directos/television/lasexta/" referer:"http://www.atresplayer.com/directos" logo:"http://vertelevisor.com/logos/sexta.png";
-
+canal:"Canal #0" url:"http://www.vercanalestv.com/canal-plus-hd-online-y-gratis-las-24-en-vivo/" referer:"http://www.vercanalestv.com/" logo:"http://vertelevisor.com/logos/canal-cero.png";
+canal:"Canal #0 Op 2" url:"http://www.vertelevisor.com/ver-canal-cero-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/canal-cero.png";
