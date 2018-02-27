@@ -2,10 +2,6 @@ name="Instalar Live TV"
 url="https://archive.org/download/Livetv_201802/Livetv.zip"
 img="https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/icon.png"
 fanart="https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/fanart.jpg"
-description="Instala el Addon Live tv de Toro."
+description="Instala el Addon Live tv de Toro. Recuerda activar el addon despues de instalarlo. Desde settings - My Addons - Addons de video"
 
-name="Instalar Live TV Op 2"
-url="https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.video.Zona.tv/plugin.video.Zona.tv-1.0.0.zip"
-img="https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/icon.png"
-fanart="https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/fanart.jpg"
-description="Instala el Addon Live tv de Toro."
+
