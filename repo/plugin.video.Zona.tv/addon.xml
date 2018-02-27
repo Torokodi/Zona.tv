@@ -17,9 +17,6 @@
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer" optional="true"/>
     <import addon="script.module.pyamf" optional="true"/>
-	<import addon="plugin.program.chrome.launcher" optional="true"/>
-	<import addon="plugin.video.SportsDevil" optional="true"/>
-	<import addon="program.plexus" optional="true"/>
 	
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
