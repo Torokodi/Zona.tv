@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="program.Toro.Kodi" name="Toro Kodi Installer" version="2.1.0" provider-name="Toro">
+<addon id="plugin.program.Toro-instalador" name="Instalador Addons Toro" version="1.0.0" provider-name="Toro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.requests" version="2.4.3" />
   </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-    </extension>
-	<extension point="xbmc.service" library="update.py" start="[login|startup]"/>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="es">Toro Kodi Instalador</summary>
-    <description lang="es">Realiza la instalacion de los addons de Toro Kodi y permite tener actualizadas las dependecias del Addon.</description>
-    <platform>all</platform>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>program executable</provides>
   </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="es">Toro Instalador</summary>
+		<description lang="es">Instala los addons de Toro y sus dependencias.</description>
+		<disclaimer lang="es">Nota: No nos hacemos responsables del uso indebido que der a este script. Este es gratuito, prohibida su venta.</disclaimer>
+		<platform>all</platform>
+		<facebook></facebook>
+		<website></website>
+	</extension>
 </addon>
 <addon id="program.Toro.Kodi" name="Toro Kodi Installer" version="2.1.0" provider-name="Toro">
   <requires>
