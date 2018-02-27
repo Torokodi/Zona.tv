@@ -1,3 +1,0 @@
-canal:"[COLOR lime]TVE 1[/COLOR]" url:"http://vergol.com/live/tve1.php" referer:"http://vercanalestv.com/tv/nacionales/tve-1.html" logo:"http://vertelevisor.com/logos/tve1.png";
-canal:"[COLOR red]TVE 2[/COLOR]" url:"http://www.vertelevisor.com/ver-la-2-en-directo-gratis-por-internet/" referer:"http://vertelevisor.com/tv/nacionales/tve-2.html" logo:"http://vertelevisor.com/logos/tve2.png";
-canal:"[COLOR lime]Antena 3[/COLOR]" url:"http://vergol.com/live1/antena3.php" referer:"http://vertelevisor.com/tv/nacionales/antena-3.html" logo:"http://vertelevisor.com/logos/antena3.png";
