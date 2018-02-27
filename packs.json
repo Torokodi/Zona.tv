@@ -10,7 +10,7 @@
 {
 	"id": "Live TV",
 	"name": "Live TV 1.0.0",
-	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.video.Zona.tv/plugin.video.Zona.tv-1.0.0.zip"],
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/dependencias/livetv.zip"],
 	"addons": ["plugin.video.Zona.tv"],
 	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/icon.png",
 	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/icon.png",
@@ -19,7 +19,7 @@
 {
 	"id": "SportsDevil",
 	"name": "SportsDevil 2018.01.19",
-	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.video.SportsDevil/plugin.video.SportsDevil-2018.01.19.zip"],
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/dependencias/sportsdevil.zip"],
 	"addons": ["plugin.video.SportsDevil"],
 	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.SportsDevil/icon.png",
 	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.SportsDevil/fanart.jpg",
@@ -28,7 +28,7 @@
 {
 	"id": "Youtube",
 	"name": "Youtube 6.0.0 Beta",
-	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.video.youtube/plugin.video.youtube-6.0.0~beta1.zip"],
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/dependencias/youtube.zip"],
 	"addons": ["plugin.video.youtube"],
 	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.youtube/icon.png",
 	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.youtube/fanart.jpg",
@@ -37,7 +37,7 @@
 {
 	"id": "Chrome Launcher",
 	"name": "plugin.program.chrome.launcher",
-	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.program.chrome.launcher/plugin.program.chrome.launcher-1.1.5.zip"],
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/dependencias/chrome.launcher.zip"],
 	"addons": ["plugin.program.chrome.launcher"],
 	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
 	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
@@ -46,7 +46,7 @@
 {
 	"id": "Plexus",
 	"name": "Plexus 0.1.7",
-	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/program.plexus/program.plexus-0.1.7.zip"],
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/dependencias/plexus.zip"],
 	"addons": ["plugin.program.plexus"],
 	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
 	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
