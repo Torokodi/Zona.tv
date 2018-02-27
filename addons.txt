@@ -1,7 +1,7 @@
 name="Zona TV Pack"
 url="https://github.com/Torokodi/Zona.tv/blob/master/dependencias/Toro-pack.zip"
-img=""
-fanart=""
+img="https://raw.githubusercontent.com/Torokodi/Zona.tv/master/dependencias/icon.png"
+fanart="https://raw.githubusercontent.com/Torokodi/Zona.tv/master/dependencias/fanart.jpg"
 description="Instalar Addon Live tv pack + dependencias. Todo en uno."
 
 name="Instalar Live TV"
