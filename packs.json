@@ -1,18 +1,54 @@
 [{
-	"id": "AAAA",
-	"name": "A Wizard",
-	"zip": ["https://test.com/Kodi.Pack.[VER].zip"],
-	"addons": ["plugin.audio.mixcloud","plugin.image.500px"],
-	"img": "http://i.imgur.com/aaaa.jpg",
-	"fanart": "http://i.imgur.com/aaaa.jpg",
-	"description": "Complete installation of the Kodi."
+	"id": "Toro Kodi Addon Pack",
+	"name": "Toro live tv Full",
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/Toro-pack.zip"],
+	"addons": ["plugin.video.Zona.tv","plugin.program.chrome.launcher","plugin.video.SportsDevil","program.plexus","plugin.video.youtube"],
+	"img": "http://www.le-monde-du-stickers.fr/1709-large/sticker-taureau-camargue.jpg",
+	"fanart": "https://zab.ru/image/960x639/f8721c7b8fe081ea1f9936e8c22507e9.jpg",
+	"description": "Paquete completo del addon Live TV de Toro Kodi, Incluye las dependencias SportsDevil,Plexus,Youtube,Chrome.launcher Para funcionar."
 },
 {
-	"id": "BBBB",
-	"name": " BWizard",
-	"zip": ["https://test.com/Kodi.Pack.[VER].zip"],
-	"addons": ["plugin.audio.mixcloud","plugin.image.500px"],
-	"img": "http://i.imgur.com/aaaa.jpg",
-	"fanart": "http://i.imgur.com/aaaa.jpg",
-	"description": "Complete installation of the Kodi."
+	"id": "Live TV",
+	"name": "Live TV 1.0.0",
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.video.Zona.tv/plugin.video.Zona.tv-1.0.0.zip"],
+	"addons": ["plugin.video.Zona.tv"],
+	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/icon.png",
+	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.Zona.tv/icon.png",
+	"description": "Solo instalara el Addon Live TV de Toro sin dependencias."
+},
+{
+	"id": "SportsDevil",
+	"name": "SportsDevil 2018.01.19",
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.video.SportsDevil/plugin.video.SportsDevil-2018.01.19.zip"],
+	"addons": ["plugin.video.SportsDevil"],
+	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.SportsDevil/icon.png",
+	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.SportsDevil/fanart.jpg",
+	"description": "Solo Instala el Addon Sportdevil, la version necesaria para el Live TV."
+},
+{
+	"id": "Youtube",
+	"name": "Youtube 6.0.0 Beta",
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.video.youtube/plugin.video.youtube-6.0.0~beta1.zip"],
+	"addons": ["plugin.video.youtube"],
+	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.youtube/icon.png",
+	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.video.youtube/fanart.jpg",
+	"description": "Solo Instala el Addon Youtube 6.0.0 Beta."
+},
+{
+	"id": "Chrome Launcher",
+	"name": "plugin.program.chrome.launcher",
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/plugin.program.chrome.launcher/plugin.program.chrome.launcher-1.1.5.zip"],
+	"addons": ["plugin.program.chrome.launcher"],
+	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
+	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
+	"description": "Solo instala el Chrome Launcher."
+},
+{
+	"id": "Plexus",
+	"name": "Plexus 0.1.7",
+	"zip": ["https://github.com/Torokodi/Zona.tv/blob/master/repo/program.plexus/program.plexus-0.1.7.zip"],
+	"addons": ["plugin.program.plexus"],
+	"img": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
+	"fanart": "https://raw.githubusercontent.com/Torokodi/Zona.tv/master/repo/plugin.program.chrome.launcher/icon.png",
+	"description": "Solo instala el Plexus 0.1.7"
 }]
