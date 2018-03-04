@@ -1,0 +1,72 @@
+<item>
+<setview>500</serview>
+<title>[COLOR yellow]Novedades[/COLOR][COLOR white] Fullhd.tv[/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][makelist.param1][/COLOR]</title>
+<link>$doregex[select]</link>
+<thumbnail>[makelist.param5]</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[titulo:"(.*?)" streamcloud:"(.*?)" streamplay:"(.*?)" trailer:"(.*?)" img:"(.*?)";]]></expres>
+<page>https://raw.githubusercontent.com/Torokodi/Zona.tv/master/hdfull.txt</page>
+</regex>
+ 
+ 
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Ver via:', ['Trailer', 'Streamcloud', 'Streamplay'])
+   channels = [
+    '$doregex[trailer]',
+    '$doregex[streamcloud]',
+    '$doregex[streamplay]']
+   return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>trailer</name>
+<expres>plugin://plugin.video.youtube/play/?video_id=[makelist.param4]</expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>streamcloud</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import urlresolver
+   url = '[makelist.param2]'
+   try:
+       u = urlresolver.resolve(url)
+   except:
+       u = 'http://www.gruponetai.com/videos/error.mp4'
+   return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>streamplay</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import urlresolver
+   url = '[makelist.param3]'
+   try:
+       u = urlresolver.resolve(url)
+   except:
+       u = 'http://www.gruponetai.com/videos/error.mp4'
+   return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<thumbnail>https://hdfull.tv/templates/hdfull/images/logo.png</thumbnail>
+</item>
