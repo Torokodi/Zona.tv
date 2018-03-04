@@ -1,6 +1,6 @@
 <item>
 <setview>500</serview>
-<title>[COLOR yellow]Novedades[/COLOR][COLOR white] Fullhd.tv[/COLOR]</title>
+<title>[COLOR blue]Novedades[/COLOR][COLOR white] Fullhd.tv[/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -8,10 +8,10 @@
 <listrepeat><![CDATA[
 <title>[COLOR white][makelist.param1][/COLOR]</title>
 <link>$doregex[select]</link>
-<thumbnail>[makelist.param5]</thumbnail>
+<thumbnail>[makelist.param6]</thumbnail>
  
 ]]></listrepeat>
-<expres><![CDATA[titulo:"(.*?)" streamcloud:"(.*?)" streamplay:"(.*?)" trailer:"(.*?)" img:"(.*?)";]]></expres>
+<expres><![CDATA[titulo:"(.*?)" streamcloud:"(.*?)" streamplay:"(.*?)" powvideo:"(.*?)" trailer:"(.*?)" img:"(.*?)";]]></expres>
 <page>https://raw.githubusercontent.com/Torokodi/Zona.tv/master/hdfull.txt</page>
 </regex>
  
@@ -22,11 +22,12 @@
 def GetLSProData(page_data,Cookie_Jar,m):
    import xbmcgui
    dialog = xbmcgui.Dialog()
-   ret = dialog.select('Ver via:', ['Trailer', 'Streamcloud', 'Streamplay'])
+   ret = dialog.select('Ver via:', ['Trailer', 'Streamcloud', 'Streamplay', 'powvideo'])
    channels = [
     '$doregex[trailer]',
     '$doregex[streamcloud]',
-    '$doregex[streamplay]']
+    '$doregex[streamplay]'],
+   '$doregex[powvideo]'
    return channels[ret]
 ]]></expres>
 <page></page>
@@ -34,7 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 <regex>
 <name>trailer</name>
-<expres>plugin://plugin.video.youtube/play/?video_id=[makelist.param4]</expres>
+<expres>plugin://plugin.video.youtube/play/?video_id=[makelist.param5]</expres>
 <page></page>
 </regex>
  
@@ -59,6 +60,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import urlresolver
    url = '[makelist.param3]'
+   try:
+       u = urlresolver.resolve(url)
+   except:
+       u = 'http://www.gruponetai.com/videos/error.mp4'
+   return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>powvideo</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import urlresolver
+   url = '[makelist.param4]'
    try:
        u = urlresolver.resolve(url)
    except:
