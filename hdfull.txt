@@ -1,2 +1,4 @@
-titulo:"Algo muy gordo" streamcloud:"http://streamcloud.eu/zmp6fd4roee9" streamplay:"https://streamplay.to/2bh0lcqx5u6m"  trailer:"xeCfXLyjDTk" img:"https://hdfull.tv/tthumb/130x190/movie_de37cdc4ab4cdb028cbce94b48c918e2.jpg";
+
 titulo:"ferdinand - Latino" streamcloud:"http://streamcloud.eu/fth1mkwmrhsh" streamplay:"https://streamplay.to/nze327hu1hhe" trailer:"n7RkOfN8KvE" img:"https://hdfull.tv/tthumb/172x256/movie_e376a67711d797363052172e3c201cd8.jpg";
+titulo:"Algo muy gordo" streamcloud:"http://streamcloud.eu/zmp6fd4roee9" streamplay:"https://streamplay.to/2bh0lcqx5u6m"  trailer:"xeCfXLyjDTk" img:"https://hdfull.tv/tthumb/130x190/movie_de37cdc4ab4cdb028cbce94b48c918e2.jpg";
+titulo:"Coco" streamcloud:"http://streamcloud.eu/ble1ukix96mp" streamplay:"http://gamovideo.com/esy2v1fpv4bq" trailer:"rb0BN7CfCjU" img:"https://hdfull.tv/tthumb/172x256/movie_8b67ced60dfcc6f945fdd61b7971717e.jpg";
