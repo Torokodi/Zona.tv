@@ -1,0 +1,22 @@
+fecha:"04/03/2018" hora:"Eventos para el Domingo:" torneo:"" Local:"" visitante:"" emite:"Live TV Addon." logo:"";
+fecha:"04/03/2018" hora:"12:00" torneo:"Liga Santander" local:"Levante" visitante:"Español" emite:"Bein Sports" url:"http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/" referer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/bein-sports.png";
+fecha:"04/03/2018" hora:"12:00" torneo:"la liga 123" local:"Lorca" visitante:"Albacete" emite:"liga123tv" url:"http://www.vertelevision.tv/ver-la-liga-123-online-en-directo-gratis-24h-por-internet/" referer:"http://www.vertelevision.tv/" logo:"https://raw.githubusercontent.com/Andorth/Live-tv/master/imagenes/futbol/laliga-123.jpg";
+fecha:"04/03/2018" hora:"16:00" torneo:"la liga 123" local:"Ginastic tarragona" visitante:"Tenerife" emite:"liga123tv" url:"http://www.vertelevision.tv/ver-la-liga-123-online-en-directo-gratis-24h-por-internet/" referer:"http://www.vertelevision.tv/"logo:"https://raw.githubusercontent.com/Andorth/Live-tv/master/imagenes/futbol/laliga-123.jpg";
+fecha:"04/03/2018" hora:"16:15" torneo:"liga santander" local:"Barcelona" visitante:"Atletico" emite:"Bein Sports la liga" url:"http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/" referer:http://www.vercanalestv.com/" logo:"http://vertelevisor.com/logos/bein-laliga.jpg";
+fecha:"04/03/2018" hora:"18:00" torneo:"Liga santander" local:"Sevilla At" visitante:"Real Sporting" emite:"liga123tv"
+url:"http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/" referer:http://www.vercanalestv.com/"
+ logo:"http://vertelevisor.com/logos/laliga123.jpg";
+fecha:"04/03/2018" hora:"18:00" torneo:"La liga 123" local:"Real Valladolid" visitante:"Rayo vallecano" emite:"liga123tv"
+url:"http://www.vertelevision.tv/ver-la-liga-123-online-en-directo-gratis-24h-por-internet/" referer:"http://www.vertelevision.tv/" logo:"http://vertelevisor.com/logos/laliga123.jpg";
+fecha:"04/03/2018" hora:"18:00" torneo:"la liga 123" local:"Alcorcon" visitante:"Cordoba" emite:"liga123tv"
+url:"http://www.vertelevision.tv/ver-la-liga-123-online-en-directo-gratis-24h-por-internet/" referer:"http://www.vertelevision.tv/"
+ logo:"http://vertelevisor.com/logos/laliga123.jpg";
+fecha:"04/03/2018" hora:"18:30" torneo:"Liga santander" local:"R sociedad" visitante:"Alaves" emite:"Bein Sports la liga"
+ url:"http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/" referer:http://www.vercanalestv.com/"
+ logo:"http://vertelevisor.com/logos/laliga123.jpg";
+fecha:"04/03/2018" hora:"20:00" torneo:"liga 123" local:"Huesca" visitante:"Almeria" emite:"Bein Sports la liga"
+url:"http://www.vertelevision.tv/ver-la-liga-123-online-en-directo-gratis-24h-por-internet/" referer:"http://www.vertelevision.tv/"
+logo:"http://vertelevisor.com/logos/bein-laliga.jpg";
+fecha:"04/03/2018" hora:"20:45" torneo:"liga santander" local:"Valencia" visitante:"R. Betis" emite:"Bein Sports la liga"
+url:"http://www.vercanalestv.com/ver-bein-sports-la-liga-en-directo-24h-online/" referer:http://www.vercanalestv.com/"  
+logo:"http://vertelevisor.com/logos/bein-laliga.jpg";
