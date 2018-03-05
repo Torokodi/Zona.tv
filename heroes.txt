@@ -1,0 +1,7 @@
+nombre:"Heroes - 1x01 - Genesis" streamcloud:"http://streamcloud.eu/qskaw84c5138/h3roes.1x01.ESP.avi.html"  streamcloud2:"https://povwideo.net/embed-2oi249n5a4io.html" openload:"https://openload.co/f/wgkvYvT4fRM" img:"https://www.elmulticine.com/imagenes/carteles/heroes-b.jpg"; info:""
+nombre:"Heroes - 1x02 - Don't Look Back" streamcloud:"http://streamcloud.eu/pugck1o62x52/Heroes-1x02.avi.html" streamcloud2:"http://streamcloud.eu/jmssqr2jtsl5/h3roes.1x02.ESP.avi.html" openload:"https://openload.co/embed/1EsXtw7_7eE" img:"https://www.elmulticine.com/imagenes/carteles/heroes-b.jpg"; 
+nombre:"Heroes - 1x03 - One Giant Leap" streamcloud:"http://streamcloud.eu/q94gkyv4o44f/Heroes-1x03.avi.html" streamcloud2:"http://streamcloud.eu/ul75a85kbv8w/h3roes.1x03.ESP.avi.html" openload:"https://openload.co/f/b3m_rydigO0" img:"https://www.elmulticine.com/imagenes/carteles/heroes-b.jpg";
+nombre:"Heroes - 1x04 - Collision" streamcloud:"http://streamcloud.eu/r7y9yxf5dlli/h3roes.1x04.ESP.avi.html" streamcloud2:"https://tvad.me/embed-n489dhnenfss.html" openload:"https://openload.co/f/Zatzp7hno3U" img:"https://www.elmulticine.com/imagenes/carteles/heroes-b.jpg";
+nombre:"Heroes - 1x05 - Hiros" streamcloud:"http://streamcloud.eu/kwozvpwt8631/Heroes-1x05.avi.html" streamcloud2:"https://tvad.me/embed-4d9qnwz472hp.html" openload:"https://openload.co/f/9lLThuQebnU" img:"https://www.elmulticine.com/imagenes/carteles/heroes-b.jpg";
+--nombre:"" .streamcloud:"" .streamcloud2:"" .openload:"" .img:"https://www.elmulticine.com/imagenes/carteles/heroes-b.jpg";--
+
