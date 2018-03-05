@@ -1,3 +1,6 @@
 ﻿evento:"[COLOR gold]05/03/2018 20:00H  Primera División | Celta Celta - Las Palmas[/COLOR]" url:"http://www.vertelevisor.com/ver-goltv-en-directo-gratis-por-internet/" referer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/imagenes/goltv.jpg";
 evento:"[COLOR gold]06/03/2018 20:45 Champions league: LIVERPOOL - PORTO | Retransmitido por: beIN Sports[/COLOR]" url:"http://vertelevisor.com/logos/bein-sports.png" referer:"http://www.vertelevisor.com/"logo:"http://vertelevisor.com/logos/bein-sports.png";
-evento:"[COLOR gold]06/03/2018 20:45 PSG - REAL MADRID Por: TV3 | Antena 3[/COLOR]" url:"http://vertelevisor.com/logos/antena3.png" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/logos/antena3.png";
+evento:"[COLOR gold]06/03/2018 20:45 Champions league: PSG - REAL MADRID Por: TV3 | Antena 3[/COLOR]" url:"http://vertelevisor.com/logos/antena3.png" referer:"http://vertelevisor.com/" logo:"http://vertelevisor.com/logos/antena3.png";
+evento:"[COLOR gold]07/03/2018 20:45 Champions league: TOTTENHAM HOTSPUR - JUVENTUS Por:beIN Sports[/COLOR]" url:"http://www.vertelevisor.com/bein-sport-en-directo-gratis-online-por-internet-en-vivo/" refer:"http://www.vertelevisor.com/" logo:"http://vertelevisor.com/logos/bein-sports.png";
+
+
