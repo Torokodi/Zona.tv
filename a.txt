@@ -1,4 +1,4 @@
-titulo:"Arrow T1 - Piloto" castellano:"http://streamcloud.eu/4dedmf1fmlyi" castellano2:"http://gamovideo.com/ddpq505v3r1w" latino:"http://streamcloud.eu/4h6w68r1hzl8" vo-sub:"http://gamovideo.com/i4htwt4jn0er" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Piloto" castellano:"http://streamcloud.eu/4dedmf1fmlyi" castellano2:"http://gamovideo.com/ddpq505v3r1w" latino:"http://streamcloud.eu/4h6w68r1hzl8" vo-sub:"https://streamplay.to/a09zjw01v00t" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Honra a tu padre" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Pistoleros solitarios" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Un hombre inocente" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
