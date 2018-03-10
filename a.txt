@@ -9,7 +9,7 @@ titulo:"Arrow T1 - Vendetta" castellano:"http://streamcloud.eu/qzzyehudaf0r" cas
 titulo:"Arrow T1 - Fin de año" castellano:"http://streamcloud.eu/xpn8yqjb6bsa" castellano2:"http://gamovideo.com/xnothcixq6w0" latino:"http://streamcloud.eu/ym9h0jf6ngu3" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Quemado" castellano:"http://streamcloud.eu/afdvgqd2opb0" castellano2:"https://streamplay.to/pi08ovhpeokm" latino:"https://powvideo.net/5amh46sf8fv3" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Confía pero verifica" castellano:"http://streamcloud.eu/bpqcwvh4vj3t" castellano2:"http://gamovideo.com/oz1spe1n4uhc" latino:"http://gamovideo.com/jkw9cpi9rrb7" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
-titulo:"Arrow T1 - Vértigo" castellano:"" castellano2:"" latino:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Vértigo" castellano:"http://gamovideo.com/1dyj1w4ci1i8" castellano2:"http://gamovideo.com/oxyr17jotz5s" latino:"http://streamcloud.eu/hoamcozaf932" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Traición" castellano:"" castellano2:"" latino:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - La odisea" castellano:"" castellano2:"" latino:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - El esquivo" castellano:"" castellano2:"" latino:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
