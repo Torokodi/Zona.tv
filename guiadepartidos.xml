@@ -1,0 +1,25 @@
+<item>
+<SetViewMode>55</SetViewMode>
+<title>[COLOR blue]Guia de partidos[/COLOR][COLOR white] [Televisados] by Whiteghost[/COLOR]</title>
+ <link>$doregex[liga]</link>
+ <regex>
+<name>liga</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue][B][I][liga.param1][/I][/B]
+[COLOR gold] [liga.param2] [/COLOR][COLOR white] [liga.param3] vs [liga.param4] [/COLOR] [COLOR orange] Retransmiten: [/COLOR][COLOR lime] [liga.param5], [liga.param6] [/COLOR]
+</title>
+<link>NA</link>
+<thumbnail></thumbnail>
+]]></listrepeat
+<expres><![CDATA[dia-partido">([^<]+).*? "hora">([^<]+).*? underline"([^<]+).*? underline"([^<]+).*?title="([^"]+).*? title="([^"]+).*?]]></expres>
+<page>http://www.futbolenlatv.es/</page>
+</regex>
+
+<thumbnail>http://files.laliga.es/seccion_logos/laliga-v-negativo-300x300.png</thumbnail>
+ </item>
+ 
+ 
+ <!--- Ejemplo 
+ dia-partido">([^<]+).*?|"hora">([^<]+).*?underline"([^<]+).*?class="([^"]+).*?underline"([^<]+).*? class="([^"]+).*?underline"([^<]+).*? title="([^"]+).*? title="([^"]+).*?
+ -->
+ 
