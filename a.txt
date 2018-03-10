@@ -1,6 +1,9 @@
 titulo:"Arrow T1 - Piloto" castellano:"http://streamcloud.eu/4dedmf1fmlyi" castellano2:"http://gamovideo.com/ddpq505v3r1w" latino:"http://streamcloud.eu/4h6w68r1hzl8" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+
 titulo:"Arrow T1 - Honra a tu padre" castellano:"http://streamcloud.eu/omgo4d3975jw" castellano2:"http://gamovideo.com/zg8tpazw6jyo" latino:"http://streamcloud.eu/kdbygz2oi3oq" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+
 titulo:"Arrow T1 - Pistoleros solitarios" castellano:"http://streamcloud.eu/jualhepv2p1x" castellano2:"http://streamcloud.eu/32ug312tc6in" latino:"https://streamplay.to/2doxxo4bxjjj" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+
 titulo:"Arrow T1 - Un hombre inocente" castellano:"http://streamcloud.eu/wd92zxqr7rub" castellano2:"http://streamcloud.eu/k74s4dkdoaoh" latino:"http://streamcloud.eu/duezayyhzk9w" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Mercancía estropeada" castellano:"http://streamcloud.eu/7wprprd4tk6h" castellano2:"http://streamcloud.eu/5tbquxxjqtom" latino:"http://streamcloud.eu/c4f3be2kmfdu" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
 titulo:"Arrow T1 - Legado" castellano:"http://streamcloud.eu/kmch82hascr6" castellano2:"http://streamcloud.eu/5yxkrxuyjbem" latino:"http://streamcloud.eu/czaxos6s6rsr" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
