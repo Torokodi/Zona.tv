@@ -1,83 +1,23 @@
-<item>
-<setview>500</serview>
-<title>[COLOR blue]Series -A-[/COLOR][COLOR white] Fullhd.tv [/COLOR]</title>
-<link>$doregex[makelist]</link>
- 
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR white][makelist.param1][/COLOR]</title>
-<link>$doregex[select]</link>
-<thumbnail>[makelist.param5]</thumbnail>
- 
-]]></listrepeat>
-<expres><![CDATA[titulo:"(.*?)" castellano:"(.*?)" latino:"(.*?)" vo-sub:"(.*?)" img:"(.*?)";]]></expres>
-<page></page>
-</regex>
- 
- 
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('Ver [makelist.param1] por:', ['Castellano', 'Latino', 'VO-Sub'])
-   channels = [
-    '$doregex[castellano]',
-    '$doregex[latino]',
-    '$doregex[vo-sub]'
-   ]
- 
-   return channels[ret]
-]]></expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>castellano</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import urlresolver
-   url = '[makelist.param2]'
-   try:
-       u = urlresolver.resolve(url)
-   except:
-       u = 'https://pastebin.com/raw/t6nVSq1z'
-   return u
-]]></expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>latino</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import urlresolver
-   url = '[makelist.param3]'
-   try:
-       u = urlresolver.resolve(url)
-   except:
-       u = 'https://pastebin.com/raw/t6nVSq1z'
-   return u
-]]></expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>vo-sub</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import urlresolver
-   url = '[makelist.param4]'
-   try:
-       u = urlresolver.resolve(url)
-   except:
-       u = 'https://pastebin.com/raw/t6nVSq1z'
-   return u
-]]></expres>
-<page></page>
-</regex>
- 
-<thumbnail>https://hdfull.tv/templates/hdfull/images/logo.png</thumbnail>
-</item>
+titulo:"Arrow T1 - Piloto" castellano:"http://gamovideo.com/mkd3qzd9ke6f" castellano2:"https://streamplay.to/ivowlg0ko9fc" latino:"https://streamplay.to/pc2f0dk1395t" vo-sub:"https://streamplay.to/a09zjw01v00t" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Honra a tu padre" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Pistoleros solitarios" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Un hombre inocente" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Mercancía estropeada" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Legado" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Musa de fuego" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Vendetta" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Fin de año" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Quemado" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Confía pero verifica" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Vértigo" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Traición" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - La odisea" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - El esquivo" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Culpable sin lugar a duda" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - El regreso de la cazadora" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Salvación" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Asuntos pendientes" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Allanamiento de morada" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - La empresa" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - La oscuridad en el borde de la ciudad" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
+titulo:"Arrow T1 - Sacrificio" castellano:"" castellano2:"" latino:"" vo-sub:"" img:"https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg";
