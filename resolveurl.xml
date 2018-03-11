@@ -1,0 +1,189 @@
+<item>
+<setview>500</serview>
+<title>[COLOR blue]Arrow[/COLOR] T1 [COLOR white] Fullhd.tv [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<description>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, Oliver es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado. Por otra parte, Oliver trata de ocultar la verdad acerca de en quién se ha convertido mientras trata de enmendar los errores que cometió en el pasado y de reconciliarse con su ex novia, Laurel Lance. Mientras Oliver trata de volver a contactar a las personas de su pasado jugando el papel del mujeriego adinerado, despreocupado y descuidado que solía ser, ayudado por su fiel chofer y guardaespaldas John Diggle, crea en secreto el personaje de un justiciero encapuchado, un vigilante que lucha contra los males de la sociedad tratando de darle a su ciudad la gloria que antes tenía; complicando esta misión, se encuentra el Detective Lance, el padre de Laurel, quien está decidido a poner al vigilante tras las rejas. </description>
+<credits>Año: 2012
+IMDB Rating: 7.9 
+Género: Acción Aventura Ciencia Ficción Crimen Drama
+Director: Greg Berlanti Marc Guggenheim</credits>
+<info>El contenido mostrado es propiedad de sus repectivos dueños. Este es extraido de sitios publicos localizado en la web http://fullhd.tv</info>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][makelist.param1][/COLOR]</title>
+<link>$doregex[select]</link>
+<thumbnail>[makelist.param5]</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[titulo:"(.*?)" castellano:"(.*?)" castellano2:"(.*?)" latino:"(.*?)" img:"(.*?)";]]></expres>
+<page>https://raw.githubusercontent.com/Torokodi/Zona.tv/master/a.txt</page>
+</regex>
+ 
+ 
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Ver [makelist.param1] por:', ['Castellano','castellano2', 'Latino'])
+   channels = [
+    '$doregex[castellano]',
+    '$doregex[castellano2]',
+    '$doregex[latino]'
+   ]
+ 
+   return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>castellano</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   
+   import resolveurl
+   resolved = resolveurl.resolve(url)
+   url = '[makelist.param2]'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://pastebin.com/raw/t6nVSq1z'
+   return u
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>castellano2</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   resolved = resolveurl.resolve(url)
+   url = '[makelist.param3]'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://pastebin.com/raw/t6nVSq1z'
+   return u
+  return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>latino</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   resolved = resolveurl.resolve(url)
+   url = '[makelist.param4]'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://pastebin.com/raw/t6nVSq1z'
+   return u
+   return u
+]]></expres>
+<page></page>
+</regex>
+ 
+
+<thumbnail>https://hdfull.tv/tthumb/172x265/show_91e4ee2b0333062e8caf7a3be0d3546e.jpg</thumbnail>
+</item>
+
+<item>
+<setview>500</serview>
+<title>[COLOR blue]Britania[/COLOR] T1 [COLOR white] Fullhd.tv [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<description></description>
+<credits></credits>
+<info>El contenido mostrado es propiedad de sus repectivos dueños. Este es extraido de sitios publicos localizado en la web http://fullhd.tv</info>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][makelist.param1][/COLOR]</title>
+<link>$doregex[select]</link>
+<thumbnail>[makelist.param5]</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[titulo:"(.*?)" castellano:"(.*?)" castellano2:"(.*?)" subtitulado:"(.*?)" img:"(.*?)";]]></expres>
+<page>https://raw.githubusercontent.com/Torokodi/Zona.tv/master/b.txt</page>
+</regex>
+ 
+ 
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import xbmcgui
+  dialog = xbmcgui.Dialog()
+  ret = dialog.select('Ver [makelist.param1] por:', ['Castellano','castellano2','Subtitulado'])
+  channels = [
+   '$doregex[castellano]',
+   '$doregex[castellano2]',
+   '$doregex[subtitulado]'
+  ]
+ 
+  return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>castellano</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   
+   import resolveurl
+   resolved = resolveurl.resolve(url)
+   url = '[makelist.param2]'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://pastebin.com/raw/t6nVSq1z'
+   return u
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>castellano2</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   resolved = resolveurl.resolve(url)
+   url = '[makelist.param3]'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://pastebin.com/raw/t6nVSq1z'
+   return u
+  return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>subtitulado</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   resolved = resolveurl.resolve(url)
+   url = '[makelist.param4]'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://pastebin.com/raw/t6nVSq1z'
+   return u
+   return u
+]]></expres>
+<page></page>
+</regex>
+ 
+ 
+ 
+<thumbnail>https://hdfull.tv/tthumb/130x190/show_f678c0e4b9cfb4e88c60819e9f09fb68.jpg</thumbnail>
+</item>
